@@ -1,3 +1,5 @@
+#The Yeahreum Core Developers
+
 # import dlib
 # import numpy as np
 import face_recognition
@@ -15,11 +17,3 @@ class FaceFilter():
         print(score)
         return score <= self.threshold
 
-
-# # Copy/Paste (mostly) from private method in face_recognition
-# face_recognition_model = face_recognition_models.face_recognition_model_location()
-# face_encoder = dlib.face_recognition_model_v1(face_recognition_model)
-
-# def convert(detected_face):
-#     return np.array(face_encoder.compute_face_descriptor(detected_face.image, detected_face.landmarks, 1))
-# # end of Copy/Paste
