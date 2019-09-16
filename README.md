@@ -6,9 +6,6 @@
 
 By Siraj Raval. further developed by Yeahreum C.D.E.V
 
-
-**Notice:** This repository is not operated or maintained by [/u/deepfakes](https://www.reddit.com/user/deepfakes/). Please read the explanation below for details.
-
 ---
 
 # deepfakes_faceswap
