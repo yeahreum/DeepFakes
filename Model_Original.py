@@ -1,4 +1,5 @@
 # Based on the original https://www.reddit.com/r/deepfakes/ code sample + contribs
+#The Yeahreum Core Developers
 
 from keras.models import Model as KerasModel
 from keras.layers import Input, Dense, Flatten, Reshape
