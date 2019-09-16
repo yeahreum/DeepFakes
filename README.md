@@ -145,11 +145,15 @@ create a folder at the name (plugins) (scripts) (lib)
 
 #in plugins 
 
+```
 (Convert_Adjust) (Convert_Masked) (Extract_Align) (Extract_Crop) (Model_LowMem)  (Model_Original) (PluginLoader)
+```
 
 #in LIB
 
+```
 (aligner)  (cli) (FaceFilter) (faces_detect) (ModelAE) (PixelShuffler) (training_data) (umeyama) (utils)
+```
 
 #in scripts
 
@@ -160,6 +164,11 @@ create a folder at the name (plugins) (scripts) (lib)
 
 完成文件夾
 Complete folder
-And # RUN
+
+And 
+```
+運行命令 Run command
+
+```
 
   
