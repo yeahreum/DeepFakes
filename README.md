@@ -141,3 +141,11 @@ Bitcoin: 1G5YV3Fp2eBjyqMEFosRWiN7mouRCHkJAH
 yeahreum: 7KJXY9HTZk318Wr3S8CwfKU8QTfwK6z13V
 
 
+create a folder at the name (plugins) (scripts) (lib)
+
+in plugins (Convert_Adjust) (Convert_Masked) (Extract_Align) (Extract_Crop) (Model_LowMem)  (Model_Original) (PluginLoader)
+
+in LIB
+
+()  () () () () ()
+ 
