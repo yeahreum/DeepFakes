@@ -157,8 +157,9 @@ create a folder at the name (plugins) (scripts) (lib)
 
 #in scripts
 
+```
 (convert) (extract) (train) 
-
+```
 
 # Done
 
