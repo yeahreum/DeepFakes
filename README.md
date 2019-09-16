@@ -1,10 +1,11 @@
-# Coding Challenge - Due Date, Thursday Feb 15 2018 
+# Coding Challenge - Expiry Date, Thursday 15 February 2018 updated by Yeahreum C.D.E.V
 
-Generate your own faceswap using this algorithm. Post your github link with your code in the youtube comment section of [this](https://youtu.be/7XchCsYtYMQ) video. Bonus points if you document your code so that a beginner can do this easily (easier than this code). 
+
 
 ## Overview
 
-This is the code for [this](https://youtu.be/7XchCsYtYMQ) video on Youtube by Siraj Raval.
+By Siraj Raval. further developed by Yeahreum C.D.E.V
+
 
 **Notice:** This repository is not operated or maintained by [/u/deepfakes](https://www.reddit.com/user/deepfakes/). Please read the explanation below for details.
 
@@ -122,3 +123,10 @@ tl;dr: training data + trial and error
 ## Credits 
 
 Credit goes to [deepfakes](https://github.com/deepfakes/faceswap). 
+
+
+## The Yeahreum Core Developers Works
+
+
+Yeahreum C.D.E.V, delete the error thing with success is now better, fast and fun to make your own video
+
