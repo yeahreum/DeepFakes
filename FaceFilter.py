@@ -1,9 +1,9 @@
 #The Yeahreum Core Developers
 
-# import dlib
-# import numpy as np
+ import dlib
+ import numpy as np
 import face_recognition
-# import face_recognition_models
+ import face_recognition_models
 
 class FaceFilter():
     def __init__(self, reference_file_path, threshold = 0.6):
